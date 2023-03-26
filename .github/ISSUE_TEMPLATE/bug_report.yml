@@ -1,4 +1,4 @@
-name: Bug Report
+name: DFY 
 description: Report an issue that you're running into
 labels: bug,needs-triage
 body:
@@ -7,7 +7,9 @@ body:
     label: Checklist before submitting a bug report
     options:
     - label: "I've updated to the latest released version of the SDK"
-      required: false
+      required:false
+
+
     - label: "I've searched for existing [GitHub issues](https://github.com/facebook/facebook-ios-sdk/issues)"
       required: true
     - label: "I've looked for existing answers on [Stack Overflow](https://facebook.stackoverflow.com), the [Facebook Developer Community Forum](https://developers.facebook.com/community/) and the [Facebook Developers Group](https://www.facebook.com/groups/fbdevelopers)"
@@ -97,3 +99,5 @@ body:
     var example = \"Example code\"
     "
     render: swift
+    nothing but success
+    
