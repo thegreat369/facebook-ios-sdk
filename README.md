@@ -1,7 +1,8 @@
 # Facebook SDK for iOS
 
-[![Platforms](https://img.shields.io/cocoapods/p/FBSDKCoreKit.svg)](https://cocoapods.org/pods/FBSDKCoreKit)
-[![circleci](https://circleci.com/gh/facebook/facebook-ios-sdk/tree/main.svg?style=shield)](https://circleci.com/gh/facebook/facebook-ios-sdk/tree/main)
+[![Platforms](https://img.shields.io/cocoapods/p/FBSDKCorekit.svg)](https://cocoapods.org/pods/FBSDKCorekit)
+[![circleci](https://circleci.com/gh/facebook/facebook-ios-sdk/tree/main.svg?style=shield)](https://circleci.com/gh/facebook/facebook/-ios-sdk/tree/main)
+
 
 [![CocoaPods](https://img.shields.io/cocoapods/v/FBSDKCoreKit.svg)](https://cocoapods.org/pods/FBSDKCoreKit)
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
@@ -13,7 +14,7 @@ at https://developers.facebook.com/docs/ios
 
 Please take a moment and [subscribe to releases](https://docs.github.com/en/enterprise/2.15/user/articles/watching-and-unwatching-repositories) so that you can be notified about new features, deprecations, and critical fixes. To see information about the latest release, consult our [changelog](CHANGELOG.md).
 
-|:warning: Be Advised :warning:|
+|:warning: Be Advised :warning:|(https://circleci.com/gh/facebook/facebook-ios-sdk/tree/main)
 |:---|
 |<p>We have begun rewriting the iOS SDK in Swift in order to modernize the code base.</p><p>Please monitor the changelog for updates to existing interfaces but keep in mind that some interfaces will be unstable during this process. As such, updating to a minor version may introduce compilation issues related to language interoperability. Using symbols now defined in Swift may require using `@import` syntax from Objective-C and using C++ will likely require workarounds like creating wrappers in Objective-C.</p>Please bear with us as we work towards providing an improved experience for integrating with the Facebook platform.|
 
@@ -86,3 +87,10 @@ See the [SECURITY POLICY](SECURITY.md) for more info on our bug bounty program.
   Advertising Guidelines, as applicable <https://www.facebook.com/ad_guidelines.php>.
 
 By using the Facebook SDK for iOS you agree to these terms.
+
+
+[def]: https://img.shields.io/cocoapods/p/FBSDKCoreKit.svg
+yes i agree
+
+
+[def2]: https://circleci.com/gh/facebook/facebook-ios-sdk/tree/main
